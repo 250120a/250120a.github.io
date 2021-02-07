@@ -145,19 +145,19 @@ video {
 }
 #ticker {
 	font-size: 100%;
-	left: 280px;
+	left: 20px;
 	top: 140px;
 }
 #timelable {
 	font-size: 85%;
-	margin-left: 15px;
+	margin-left: 70px;
 	top: 315px;
 
 }
 #timeleft {
 	font-size: 190%;
 	top: 355px;
-	margin-left: -40px;
+	margin-left: 30px;
 }
 
 
